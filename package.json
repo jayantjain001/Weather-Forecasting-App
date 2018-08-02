@@ -1,0 +1,9 @@
+{
+  "name": "weather app",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "express": "^4.16.3",
+    "yargs": "^4.8.1"
+  }
+}
